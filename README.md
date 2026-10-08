@@ -6,6 +6,10 @@ A personal AI instruction project by B Hui that uses I Ching symbolism as a fram
 
 **A mirror for reflection, rather than a prediction of fate.**
 
+## ChatGPT plugin
+
+[Open 易经占卦 v1.3 in ChatGPT](https://chatgpt.com/plugins/plugin_716347d6c4788191862efdc67b8079c4?open_in_app).
+
 ## What it does
 
 The supplied specification guides a Chinese-language assistant to focus on one question, record a simulated coin-casting sequence, describe the resulting six-line structure and changing lines, and connect that symbolic reading to practical reflection.
@@ -16,7 +20,7 @@ It asks for transparent records, two lookup checks for hexagram identification, 
 
 Read [the Chinese instruction specification](INSTRUCTIONS.zh-CN.md). It preserves the creator's supplied workflow, with evaluation scores and editing commentary removed.
 
-This repository shares a prompt specification, not a standalone application or a verified export of a live GPT. No public GPT link is included.
+This repository shares a prompt specification, not a standalone application or a verified export of the live ChatGPT plugin linked above.
 
 ## Worked example
 
