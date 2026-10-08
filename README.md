@@ -16,7 +16,13 @@ It asks for transparent records, two lookup checks for hexagram identification, 
 
 Read [the Chinese instruction specification](INSTRUCTIONS.zh-CN.md). It preserves the creator's supplied workflow, with evaluation scores and editing commentary removed.
 
-This repository shares a prompt specification, not a standalone application or a verified export of a live GPT. No public GPT link or example conversation is included.
+This repository shares a prompt specification, not a standalone application or a verified export of a live GPT. No public GPT link is included.
+
+## Worked example
+
+Read [GitHub meaningful content before 2028](examples/github-meaningful-content-before-2028.md), an English-language adaptation of a reading from October 7, 2026. It includes the actual simulated casting record, both hexagram lookup checks, changing-line interpretation, and practical reflection prompts.
+
+The example illustrates the workflow; it is not a forecast, a review of the user's repositories, or validation of predictive accuracy. The source specification remains Chinese-language.
 
 ## Workflow
 
